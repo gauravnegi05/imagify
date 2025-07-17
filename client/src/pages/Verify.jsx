@@ -15,7 +15,8 @@ const Verify = () => {
 
     const navigate = useNavigate()
 
-    // Function to verify stripe payment
+
+    
     const verifyStripe = async () => {
 
         try {
